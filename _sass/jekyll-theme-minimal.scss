@@ -119,9 +119,7 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  width:100%;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -203,9 +201,7 @@ hr {
 }
 
 footer {
-  width:270px;
-  float:left;
-  position:fixed;
+  width:100%;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
